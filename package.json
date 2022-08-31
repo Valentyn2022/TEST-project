@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Viacheslav-Yurushev.github.io/TEST-project",
+  "homepage": "https://ViacheslavYUR.github.io/TEST-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /TEST-project/"
