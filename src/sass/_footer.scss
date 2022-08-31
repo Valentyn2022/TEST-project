@@ -25,7 +25,12 @@ background-color: #84A178;
 
     // transition: color var(--transition-duration-function),
     //     background-color var(--transition-duration-function);
+    &:hover,
+    &:focus{
+        color: white;
+    }
 }
+
 .social__icon{
     fill: currentColor;
 }
